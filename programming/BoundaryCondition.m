@@ -103,4 +103,13 @@ switch typeBC
         L1UL3 = union(dofL1,dofL3) ;
         L2UL4 = union(dofL2,dofL4) ;
         bcdof = union(L1UL3,L2UL4) ;
+
+%      L1UL3 = union(dofL1,dofL3) ;
+%      L2UL4 = union(dofL2,dofL4) ;
+%      bcdof = union(L1UL3,L2UL4) ;
+
 end
+
+
+
+
