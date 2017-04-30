@@ -42,3 +42,5 @@ end
 %         text(X(:,i),Y(:,i),int2str(nd(:,i)),'fontsize',8,'color','k');
 %         text(sum(X(:,i))/4,sum(Y(:,i))/4,int2str(i),'fontsize',10,'color','r') ;
 %     end        
+
+%      axis off ;
